@@ -5,3 +5,9 @@
 	path = public
 	url = git@github.com:Encheng/Encheng.github.io.git
 	branch = master
+[submodule "themes/themes/hyde"]
+	path = themes/themes/hyde
+	url = https://github.com/spf13/hyde
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde

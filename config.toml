@@ -1,4 +1,7 @@
 baseURL = "https://encheng.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "aether"
+title = "Peter Lu Blog"
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-0d"
